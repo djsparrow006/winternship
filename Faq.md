@@ -1,3 +1,12 @@
+---
+layout: page
+title: Faq
+permalink: /Faq/
+---
+
+
+
+
 # Vicharanashala Lab for Education Design
 
 ## NPTEL Winter Internship – Frequently Asked Questions

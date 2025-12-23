@@ -1,3 +1,13 @@
+---
+layout: page
+title: Conceptnote
+permalink: /Conceptnote/
+---
+
+
+
+
+
 # NPTEL Winter Internship  
 ### Full-Stack Development Program  
 **Under the guidance of Prof. Sudarshan Iyengar**

@@ -3,8 +3,7 @@
 
 header_pages:
   - Faq.md
-  - Journey.md
-  - Handbook.md
+  - Intro.md
 
 
 markdown: kramdown

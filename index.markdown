@@ -4,6 +4,6 @@
 
 layout: home
 ---
-This is a homepage for the winter interns of IIT Ropar at the Vicharanashala Labs. Please take a look at the [FAQ section](/winternship/FAQ.md). You may also want to use our chatbot to get your queries answered. Here is the link to the MERN stack course. Which we exepct you to have covered before getting into a project.  
+This is a homepage for the winter interns of IIT Ropar at the Vicharanashala Labs. Please take a look at the [FAQ section](FAQ.md). You may also want to use our chatbot to get your queries answered. Here is the link to the MERN stack course. Which we exepct you to have covered before getting into a project.  
 
 

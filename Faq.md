@@ -66,6 +66,12 @@ Guidelines:
 - The form should be preferably filled **in the evening**, after completing the day’s work
 - This form is **mandatory** for marking your attendance on **NPTEL’s side** throughout the internship
 
+**2.5 I forgot to fill the attendance sheet attached to the NPTEL offer letter yesterday. What should I do now?**  
+Unfortunately, there is nothing that can be done, as the form is used for **NPTEL’s official database** and attendance **cannot be recorded for the previous day**. The previous day will be considered as a leave and two such days will automatically lead to termination.
+
+Please ensure that the form is filled **daily** going forward to avoid missing attendance again.
+
+
 ---
 
 ## 3. Mentorship & Guidance

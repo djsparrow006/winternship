@@ -21,7 +21,9 @@ order: 2
 12. [Health Points System](#12-health-points-system)
 13. [MERN Case Studies](#13-mern-case-studies)
 14. [Viva/PES (Endorsements)](#14-vivapes-endorsements)
----
+
+
+<hr/>
 
 ## 1. Internship Overview
 

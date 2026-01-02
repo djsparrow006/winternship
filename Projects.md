@@ -12,7 +12,7 @@ permalink: /projects/
 
 {% assign projects = site.projects | sort: "order" %}
 
-{% assign project_colors = "FF9800,3B82F6,10B981,8B5CF6" | split: "," %}
+{% assign project_colors = "FF9800,3B82F6,A7F3D0,8B5CF6,059669,FFFF00" | split: "," %}
 
 <div style="display: grid; gap: 2rem; margin-top: 2rem;">
   {% for project in projects %}
@@ -29,9 +29,9 @@ permalink: /projects/
             {% endif %}
           </div>
         </div>
-        <div style="padding: 1.5rem 2rem; background-color: white; border-top: 1px solid #e1e4e8;">
+        <!-- <div style="padding: 1.5rem 2rem; background-color: white; border-top: 1px solid #e1e4e8;">
           <span style="color: #0366d6; font-weight: 600; font-size: 0.95rem;">View Project Details →</span>
-        </div>
+        </div> -->
       </a>
     </div>
   {% endfor %}
